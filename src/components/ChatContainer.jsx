@@ -94,7 +94,7 @@ function ChatContainer({ chatHistory, setChatHistory, sessionId, chatContainerRe
     <div className="w-full max-w-2xl bg-white rounded-lg shadow-lg flex flex-col h-[80vh]">
       <div className="bg-blue-600 text-white p-4 rounded-t-lg">
         <h1 className="text-xl font-semibold">Onboarding Buddy</h1>
-        <p className="text-sm">Your AI-powered onboarding assistant</p>
+        <p className="text-sm">Your AI-powered onboarding assister</p>
         <div className="mt-2 flex justify-between items-center">
           <div className="relative">
             <label htmlFor="generationType" className="mr-2">Input Type:</label>
